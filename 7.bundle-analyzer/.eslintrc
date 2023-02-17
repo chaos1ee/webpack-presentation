@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": ["@chaos1ee/react"],
+  "rules": {
+    "react/function-component-definition": "off",
+    "react/jsx-one-expression-per-line": "off",
+    "react/jsx-indent": "off"
+  }
+}

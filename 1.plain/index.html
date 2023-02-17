@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Home</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js"></script>
+  <!-- 全局变量被覆盖 -->
+  <script src="script2.js"></script>
+</head>
+
+<body>
+  <main>
+    <h1>Home page</h1>
+  </main>
+  <script>
+    window.onload = function () {
+      console.log(a);
+    };
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,3 @@
+# 验证信息
+pure_number: '${label}必须是纯数字'
+json_string: '请输入 JSON'

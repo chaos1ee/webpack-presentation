@@ -1,0 +1,89 @@
+server: 服务器
+gate: 网关
+version: 版本
+cancel: 取消
+confirm: 确定
+name: 名称
+address: 地址
+channel: 渠道
+status: 状态
+priority: 优先级
+action: 操作
+delete: 删除
+display_name: 显示名称
+whether_to_open: 是否开启
+yes: 是
+no: 否
+prop: 属性
+url: URL
+size: 大小
+add: 添加
+cdn_address: CDN 地址
+app_download_address: APP 下载地址
+data_service: 数据服务
+data_service_address: 数据服务地址
+update_data_service_address: 更新数据服务地址
+no_permission: 无权限，请联系管理员
+creation_time: 创建时间
+select_all: 全选
+permission: 权限
+user: 用户
+role: 角色
+update: 更新
+create: 创建
+permission_management: 权限管理
+not_authorized: 未授权，请联系管理员授权
+game_management_platform: 游戏管理平台
+username: 用户名
+password: 密码
+login: 登录
+login_method: 登录方式
+third_party_login: 第三方登录方式
+sign_in_idaas: IDass 登录
+logout: 登出
+mail_management: 邮件管理
+mail: 邮件列表
+title: 标题
+send_mail: 发送邮件
+amount: 数量
+player_id: 玩家 ID
+query: 查询
+player: 玩家
+kingdom: 王国
+alliance: 联盟
+type: 类型
+attachment: 附件
+content: 内容
+subtitle: 副标题
+management: 服务器管理
+add_server: 添加服务器
+server_open_time: 开服时间
+server_maintaining_time: 维护时间
+delete_server_message: '确定删除服务器 <span style="color: #DC143C;">{{id}}</span> 吗？'
+server_deleted_successfully: 服务器删除成功
+server_deleted_failed: 服务器删除失败
+add_gate: 添加网关
+add_version: 添加版本
+upgrade_info: 升级信息
+delete_version_message: '确定删除版本 <span style="color: #DC143C;">{{id}}</span> 吗？'
+version_deleted_successfully: 版本删除成功
+version_deleted_failed: 版本删除失败
+set_current_version: 设置为当前版本
+set_current_version_message: 确定将版本 {{version}} 设置为当前版本吗？
+set_current_version_successfully: 版本设置成功
+set_current_version_failed: 版本设置失败
+current_version: '当前版本: {{version}}'
+update_manifest: 更新 Manifest
+delete_gate_message: '确定删除网关 <span style="color: #DC143C;">{{id}}</span> 吗？'
+gate_deleted_successfully: 网关删除成功
+gate_deleted_failed: 网关删除失败
+not_authorized_msg: 未授权，请联系管理员进行授权
+add_bulletin: 添加公告
+start_time: 开始时间
+end_time: 结束时间
+bulletin_detail: 公告详情
+language: 语言
+reward: 奖励
+item: 道具
+time_range: 时间范围
+background_image: 背景图片

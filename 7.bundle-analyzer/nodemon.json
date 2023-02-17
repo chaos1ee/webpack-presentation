@@ -1,0 +1,10 @@
+{
+  "ignore": [".git", "node_modules/**/node_modules"],
+  "verbose": true,
+  "watch": ["configs/", "environments/.env", "environments/.env.development"],
+  "ext": "*",
+  "exec": "webpack serve --config configs/webpack.dev.config.ts",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

@@ -1,0 +1,89 @@
+server: Server
+gate: Gate
+version: Version
+cancel: Cancel
+confirm: Confirm
+name: Name
+address: Address
+channel: Channel
+status: Status
+priority: Priority
+action: Action
+delete: Delete
+display_name: Display Name
+whether_to_open: Whether to open
+yes: Yes
+no: No
+prop: Prop
+url: URL
+size: Size
+add: Add
+cdn_address: CDN Address
+app_download_address: APP Download Address
+data_service: Data Service
+data_service_address: Data Service Address
+update_data_service_address: Update Data Service Address
+no_permission: No permission, please contact the administrator
+creation_time: Creation time
+select_all: Select All
+permission: Permission
+user: User
+role: Role
+update: Update
+create: Create
+permission_management: Permission management
+not_authorized: Unauthorized, please contact the administrator for authorization
+game_management_platform: Game Management Platform
+username: Username
+password: Password
+login: Login
+login_method: Login Method
+third_party_login: Third Party Login
+sign_in_idaas: Sign In With IDaas
+logout: Logout
+mail_management: Mail Management
+mail: Mail
+title: Title
+send_mail: Send Mail
+amount: Amount
+player_id: Player ID
+query: Query
+player: Player
+kingdom: Kingdom
+alliance: Alliance
+type: Type
+attachment: Attachment
+content: Content
+subtitle: Subtitle
+management: Server Management
+add_server: Add Server
+server_open_time: Server Open Time
+server_maintaining_time: Maintaining Time
+delete_server_message: 'Are you sure you want to delete server <span style="color: #DC143C;">{{id}}</span>?'
+server_deleted_successfully: Server deleted successfully
+server_deleted_failed: Server deletion failed
+add_gate: Add Gate
+add_version: Add Version
+upgrade_info: Upgrade Info
+delete_version_message: 'Are you sure you want to delete version <span style="color: #DC143C;">{{id}}</span>?'
+version_deleted_successfully: Version deleted successfully
+version_deleted_failed: Version deleted failed
+set_current_version: Set to current version
+set_current_version_message: Are you sure to set {version} as current version?
+set_current_version_successfully: Set version successfully
+set_current_version_failed: Set version failed
+current_version: 'Current Version: {{version}}'
+update_manifest: Update Manifest
+delete_gate_message: 'Are you sure you want to delete gate <span style="color: #DC143C;">{{id}}</span>?'
+gate_deleted_successfully: Gate deleted successfully
+gate_deleted_failed: Gate deleted failed
+not_authorized_msg: Not authorized, please contact the administrator for authorization.
+add_bulletin: Add Bulletin
+start_time: Start Time
+end_time: End Time
+bulletin_detail: Bulletin Detail
+language: Language
+reward: Reward
+item: Item
+time_range: Time Range
+background_image: Background Image

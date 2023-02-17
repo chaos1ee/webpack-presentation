@@ -1,0 +1,5 @@
+{
+  "src/*.{ts,tsx,js,jsx}": "eslint --fix --cache",
+  "src/*.{css,scss}": "stylelint --fix",
+  "*": "prettier -w -u"
+}

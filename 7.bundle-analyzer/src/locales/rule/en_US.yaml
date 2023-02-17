@@ -1,0 +1,3 @@
+# Validation messages
+pure_number: '${label} must be pure numbers'
+json_string: 'Please input JSON'
